@@ -6,7 +6,7 @@ import { IoLogoInstagram } from "react-icons/io";
 import { FaLinkedinIn } from "react-icons/fa";
 export const Footer = () => {
   return (
-    <footer className='flex flex-col gap-8 p-10 bg-neutral-800 text-white'>
+    <footer className='flex flex-col gap-8 p-10 bg-[#595652] text-white'>
       <div className='flex flex-col md:flex-row justify-between items-start md:items-center gap-8'>
         {/* About Section */}
         <div className='flex-1'>

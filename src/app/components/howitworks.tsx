@@ -30,7 +30,7 @@ const steps = [
 
 const Journey = () => {
   return (
-    <section className="relative w-full  mx-auto px-4 py-25 bg-neutral-900" id="how-it-works">
+    <section className="relative w-full  mx-auto px-4 py-25 bg-[#1A1A1A]" id="how-it-works">
       <h2 className="text-4xl font-bold text-center mb-12">How Intern-Go Works</h2>
 
       <div className="relative">

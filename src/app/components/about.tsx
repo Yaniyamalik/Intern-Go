@@ -2,7 +2,7 @@ import React from 'react'
 
 export const About = () => {
   return (
-    <section id="about" className='max-w-full mx-auto px-6 py-25 text-center bg-neutral-900 text-white flex flex-col items-center justify-center gap-10 '>
+    <section id="about" className='max-w-full mx-auto px-6 py-25 text-center bg-[#141620]  text-white flex flex-col items-center justify-center gap-10 '>
 
         
         <div>
