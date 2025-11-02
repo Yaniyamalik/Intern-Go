@@ -6,8 +6,8 @@ Designed to help students discover internships and allow startups/companies to c
 ---
 
 ## 🌐 Live Demo
-> 🔗 https://your-deployed-url.com  
-(Replace this when deployed)
+> 🔗https://intern-go-eta.vercel.app/
+
 
 ---
 
